@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903073533903",
+    "firebase_url": "https://buy-it-64c88.firebaseio.com",
+    "project_id": "buy-it-64c88",
+    "storage_bucket": "buy-it-64c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903073533903:android:56dadc6bce3b44a0068cba",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903073533903-jk8btuk7lrfq3nra3m4990jjvd8b2sqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtduSVXVgs3qgKuMbNs2l4WIHtMf7_UOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903073533903-jk8btuk7lrfq3nra3m4990jjvd8b2sqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
